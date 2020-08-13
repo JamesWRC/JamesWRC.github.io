@@ -56,8 +56,11 @@
                         </div>
                         <div class="blog-slider__content">
                         <span class="blog-slider__code">26 December 2019</span>
-                        <div class="blog-slider__title">Lorem Ipsum Dolor</div>
-                            <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi? </div>
+                        <div class="blog-slider__title">Bonfire</div>
+                            <div class="blog-slider__text">An iOS application to help monitor and manage your 
+                                sites and web resources. This app can help with rate limiting, protect against DDoS
+                                attacks and help you budget costs related to serverless encironments.
+                            </div>
                             <a href="#" class="blog-slider__button">
                                 <img src="assets/img/GitHub-Mark-120px-plus.png" class="modifyGitIcon">
                                 <img src="assets/img/GitHub_Logo.png" class="modifyGitText">
