@@ -11,8 +11,6 @@ jobs:
       - name: Check syntax
         run: sudo apt-get update; sudo apt-get install sed
       - uses: actions/checkout@master
-      - name:
-        run: sh fixLinks.sh
       - name: Publish
         uses: cloudflare/wrangler-action@1.2.0
         with:
