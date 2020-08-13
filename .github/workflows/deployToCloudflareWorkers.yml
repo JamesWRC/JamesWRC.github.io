@@ -11,7 +11,7 @@ jobs:
       - name: Check syntax
         run: sudo apt-get update; sudo apt-get install sed
       - name:
-        run: pwd;sudo chmod +x fixLinks.sh;sh fixLinks.sh
+        run: pwd;sudo chmod +x /home/runner/work/JamesWRC.github.io/JamesWRC.github.io/fixLinks.sh;sh /home/runner/work/JamesWRC.github.io/JamesWRC.github.io/fixLinks.sh
       - uses: actions/checkout@master
       - name: Publish
         uses: cloudflare/wrangler-action@1.2.0
