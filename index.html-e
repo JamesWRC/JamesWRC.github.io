@@ -68,7 +68,7 @@
                 <div class="blog-slider__wrp swiper-wrapper">
                     <div class="blog-slider__item swiper-slide">
                         <div class="blog-slider__img">
-                            <img src="assets/img/MDT_GUI_ICON.png" alt="">
+                            <img src="assets/img/MDT_GUI.png" alt="">
                         </div>
                         <div class="blog-slider__content">
                         <span class="blog-slider__code">26 December 2019</span>
@@ -84,7 +84,7 @@
                 <div class="blog-slider__wrp swiper-wrapper">
                     <div class="blog-slider__item swiper-slide">
                         <div class="blog-slider__img">
-                            <img src="assets/img/MDT_LITE_ICON.png" alt="">
+                            <img src="assets/img/MDT_LITE.png" alt="">
                         </div>
                         <div class="blog-slider__content">
                         <span class="blog-slider__code">26 December 2019</span>
