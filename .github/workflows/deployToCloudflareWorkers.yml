@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Deploy
     steps:
+      - name: test
+        run: sudo chown -R $USER:$USER /home/github/actions-runner/work/JamesWRC.github.io
       - name: Check syntax
         run: sudo apt-get update; sudo apt-get install sed
       - name:
