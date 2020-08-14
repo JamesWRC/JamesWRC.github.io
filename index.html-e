@@ -59,7 +59,7 @@
                         <div class="blog-slider__title">Bonfire</div>
                             <div class="blog-slider__text">An iOS application to help monitor and manage your 
                                 sites and web resources. This app can help with rate limiting, protect against DDoS
-                                attacks and help you budget costs related to serverless encironments.
+                                attacks and help you budget costs related to serverless environments.
                             </div>
                             <a href="#" class="blog-slider__button">
                                 <img src="assets/img/GitHub-Mark-120px-plus.png" class="modifyGitIcon">
