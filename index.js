@@ -19,8 +19,10 @@ async function handleRequest(params) {
   return new Response(results, init)
 }
 addEventListener('fetch', event => {
-  var uri = event.request.url.replace(/^https:\/\/.*?\//gi, "/");
-  let params = uri
+     const url = new URL(event.request.url);
+     uri = url.pathname;
+     console.log(uri);  
+     let params = uri
   return event.respondWith(handleRequest(params))
 })
 /**
